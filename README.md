@@ -25,5 +25,5 @@ I love to talk about tech, dev community, diversity, memes and more!
 
 - 🗣 I was born on northeast of Brazil, raised on the north, and now live on southeast. My portuguese accent is a mix of that all and nobody could define it - not even myself.
 - 📸 I like photography, you can check some clicks on [Unsplash](https://unsplash.com/@rcrd_landscape)
-- 🛩 I used to be afraid of flying. Now I'm a aviation nerd and know more about airplanes that I should...
+- 🛩 I used to be afraid of flying. Now I'm a aviation nerd and know more about airplanes than I should...
 - 🕹 I'm a PC gamer, but also love old video games, owning a original SNES, N64 and GameBoy Advance SP
