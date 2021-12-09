@@ -19,7 +19,7 @@ I love to talk about tech, dev community, diversity, memes and more!
 - 📽 Keynotes of past Meetups talks are posted on [Speakerdeck](https://speakerdeck.com/ricardogouveia3)
 - 🐦 My twitter is [@ricardogouveia3](https://twitter.com/ricardogouveia3). You can send me a DM in there, but the content is mostly memes...
 - 💬 [Telegram](https://t.me/ricardogouveia3)
-- 📧 You can also send me an [email](mailto:contato@rcrd.me)
+- 📧 You can also send me an [email](mailto:ricardogouveia3_@hotmail.com)
 
 ### ⚡ Fun facts
 
