@@ -14,7 +14,7 @@ I also like to study and discuss about presentation design.
 
 I love to talk about tech, dev community, diversity, memes and more! 
 
-- 🔗 On my personal website [rcrd.me](https://rcrd.me) you can check my portfolio, dev experiences (labs), and articles; all my social networks are linked there too! You can also reach me using the contact form for anything more professional.
+- 🔗 On my personal website [rcrd.dev](https://rcrd.dev) you can check my portfolio, dev experiences (labs), and articles; all my social networks are linked there too! You can also reach me using the contact form for anything more professional.
 - 🗒 Writings live on [Dev.to](https://dev.to/ricardogouveia3)
 - 📽 Keynotes of past Meetups talks are posted on [Speakerdeck](https://speakerdeck.com/ricardogouveia3)
 - 🐦 My twitter is [@ricardogouveia3](https://twitter.com/ricardogouveia3). You can send me a DM in there, but the content is mostly memes...
