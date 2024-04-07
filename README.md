@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-I'm Ricardo Gouveia (he/him), a front-end developer and UI designer from Brazil 🇧🇷. I specialize in front-end frameworks like Angular and Vue, as well as interaction design for mobile and web apps.
+I'm Ricardo Gouveia (he/him), a front-end developer and UI designer from Brazil 🇧🇷. I specialize in front-end frameworks like React and Angular, mobile apps development with React Native, and interaction design for mobile and web.
 
 I'm actively working towards becoming a technical anchor and community manager, specializing in front-end development. I contribute to the developer community by writing articles on platforms like dev.to, while also taking on leadership roles as the organizer of the HTML-SP meetup group and a speaker at local meetups.
 
