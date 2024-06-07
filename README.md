@@ -25,3 +25,7 @@ I love discussing tech, the developer community, diversity, memes, and more!
 - 📸 I enjoy photography, and you can check out some of my clicks on [Unsplash](https://unsplash.com/@rcrd_landscape)
 - 🛩 I used to be afraid of flying, but now I'm an aviation nerd and know more about airplanes than I probably should...
 - 🕹 I'm a PC gamer, but I also have a deep love for old video games. I own original SNES, N64, and GameBoy Advance SP consoles.
+
+### Stats
+
+<a href="https://app.daily.dev/rcrd"><img src="https://api.daily.dev/devcards/v2/wP2miPonGqssUoAkdEauc.png?r=i7x" width="356" alt="Ricardo Gouveia's Dev Card"/></a>
