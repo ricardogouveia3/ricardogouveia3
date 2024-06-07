@@ -34,4 +34,3 @@ I love discussing tech, the developer community, diversity, memes, and more!
 
 <a href="https://app.daily.dev/rcrd"><img src="./devcard.png" width="356" alt="Ricardo Gouveia's Dev Card"/></a>
 
----
