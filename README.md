@@ -28,4 +28,4 @@ I love discussing tech, the developer community, diversity, memes, and more!
 
 ### Stats
 
-<a href="https://app.daily.dev/rcrd"><img src="https://api.daily.dev/devcards/v2/wP2miPonGqssUoAkdEauc.png?r=i7x" width="356" alt="Ricardo Gouveia's Dev Card"/></a>
+<a href="https://app.daily.dev/rcrd"><img src="./devcard.png" width="356" alt="Ricardo Gouveia's Dev Card"/></a>
