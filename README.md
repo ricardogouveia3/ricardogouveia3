@@ -6,6 +6,7 @@ I'm Ricardo Gouveia (he/him), a front-end developer and UI designer from Brazil 
 
 I'm actively working towards becoming a technical anchor and community manager, specializing in front-end development. I contribute to the developer community by writing articles on platforms like dev.to, while also taking on leadership roles as the organizer of the HTML-SP meetup group and a speaker at local meetups.
 
+---
 
 ### 📫 Getting in touch
 
@@ -18,6 +19,7 @@ I love discussing tech, the developer community, diversity, memes, and more!
 - 💬 Connect with me on [Telegram](https://t.me/ricardogouveia3)
 - 📧 Send me an [email](mailto:ricardogouveia3_@hotmail.com)
 
+---
 
 ### ⚡ Fun facts
 
@@ -26,6 +28,10 @@ I love discussing tech, the developer community, diversity, memes, and more!
 - 🛩 I used to be afraid of flying, but now I'm an aviation nerd and know more about airplanes than I probably should...
 - 🕹 I'm a PC gamer, but I also have a deep love for old video games. I own original SNES, N64, and GameBoy Advance SP consoles.
 
+---
+
 ### 🔄️ Dynamic content
 
 <a href="https://app.daily.dev/rcrd"><img src="./devcard.png" width="356" alt="Ricardo Gouveia's Dev Card"/></a>
+
+---
