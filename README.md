@@ -32,11 +32,11 @@ I love discussing tech, the developer community, diversity, memes, and more!
 
 ### 📖 Latest posts
 <!-- DEVTOPOSTS:START -->
+- [Comunidade como indicativo de empresas](https://dev.to/rcrd/comunidade-como-indicativo-de-empresas-2jmd)
 - [O front-end além da web](https://dev.to/rcrd/o-front-end-alem-da-web-1li3)
 - [Ninguém pode te dizer quanto tempo leva para se tornar &quot;dev&quot;](https://dev.to/rcrd/ninguem-pode-dizer-quanto-tempo-leva-para-virar-dev-16n6)
 - [Minha Stack Pessoal - Parte 1: Introdução](https://dev.to/ricardogouveia3/minha-stack-pessoal-parte-1-introducao-27fn)
 - [Adeus Medium. Olá DEV Community](https://dev.to/rcrd/adeus-medium-ola-dev-community-4n4p)
-- [User Agent Style Sheet: o porquê de um CSS que só serve para ser sobrescrito](https://dev.to/ricardogouveia3/user-agent-style-sheet-o-porque-de-um-css-que-so-serve-para-ser-sobrescrito-35lm)
 <!-- DEVTOPOSTS:END -->
 
 ---
