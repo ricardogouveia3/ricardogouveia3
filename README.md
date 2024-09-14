@@ -1,5 +1,3 @@
-<img src='https://i.ibb.co/9ryVW79/github-readme-h400.jpg' alt='RCRD logo with some design colorful background' />
-
 ## Hi there 👋
 
 I'm Ricardo Gouveia (he/him), a front-end developer and UI designer from Brazil 🇧🇷. I specialize in front-end frameworks like React and Angular, mobile apps development with React Native, and interaction design for mobile and web.
@@ -15,9 +13,10 @@ I love discussing tech, the developer community, diversity, memes, and more!
 - 🔗 Check out my personal website [rcrd.dev](https://rcrd.dev) for my portfolio, development experiences (labs), and articles. You'll find all my social networks linked there too! For professional inquiries, feel free to use the contact form.
 - 🗒 Find my writings on [Dev.to](https://dev.to/ricardogouveia3)
 - 📽 Watch my past Meetup talks on [Speakerdeck](https://speakerdeck.com/ricardogouveia3)
-- 🐦 Reach out to me on Twitter [@ricardogouveia3](https://twitter.com/ricardogouveia3). You can send me a DM there, but fair warning, it's mostly memes...
+- 🦋 Reach out to me on [BlueSky](https://bsky.app/profile/rcrd.dev). You can send me a DM there, but fair warning, it's mostly memes...
 - 💬 Connect with me on [Telegram](https://t.me/ricardogouveia3)
-- 📧 Send me an [email](mailto:ricardogouveia3_@hotmail.com)
+- 📧 Send me an [email](mailto:me@rcrd.dev)
+- *️⃣ All other links can be found in my [link aggregator](https://links.rcrd.dev/).
 
 ---
 
