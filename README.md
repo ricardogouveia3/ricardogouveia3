@@ -37,10 +37,3 @@ I love discussing tech, the developer community, diversity, memes, and more!
 - [Minha Stack Pessoal - Parte 1: Introdução](https://dev.to/ricardogouveia3/minha-stack-pessoal-parte-1-introducao-27fn)
 - [Adeus Medium. Olá DEV Community](https://dev.to/rcrd/adeus-medium-ola-dev-community-4n4p)
 <!-- DEVTOPOSTS:END -->
-
----
-
-### 🔄️ Dev Card
-
-<a href="https://app.daily.dev/rcrd"><img src="./devcard.png" width="356" alt="Ricardo Gouveia's Dev Card"/></a>
-
