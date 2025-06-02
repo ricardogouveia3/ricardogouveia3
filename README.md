@@ -32,8 +32,8 @@ I love discussing tech, the developer community, diversity, memes, and more!
 ### 📖 Latest posts
 <!-- DEVTOPOSTS:START -->
 - [Separating Logic from UI in React: A Comparison with Angular Services](https://dev.to/rcrd/separating-logic-from-ui-in-react-a-comparison-with-angular-services-5en)
-- [Comunidade como indicativo de empresas](https://dev.to/rcrd/comunidade-como-indicativo-de-empresas-2jmd)
-- [O front-end além da web](https://dev.to/rcrd/o-front-end-alem-da-web-1li3)
-- [Ninguém pode te dizer quanto tempo leva para se tornar &quot;dev&quot;](https://dev.to/rcrd/ninguem-pode-dizer-quanto-tempo-leva-para-virar-dev-16n6)
+- [Community as a Signal for Companies](https://dev.to/rcrd/comunidade-como-indicativo-de-empresas-2jmd)
+- [Front-End Beyond the Web](https://dev.to/rcrd/o-front-end-alem-da-web-1li3)
+- [Nobody Can Tell You How Long It Takes to Become a “Dev”](https://dev.to/rcrd/ninguem-pode-dizer-quanto-tempo-leva-para-virar-dev-16n6)
 - [Minha Stack Pessoal - Parte 1: Introdução](https://dev.to/ricardogouveia3/minha-stack-pessoal-parte-1-introducao-27fn)
 <!-- DEVTOPOSTS:END -->
